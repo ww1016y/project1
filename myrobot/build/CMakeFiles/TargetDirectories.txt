@@ -1,3 +1,0 @@
-/home/nvidia/myrobot/build/CMakeFiles/edit_cache.dir
-/home/nvidia/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/nvidia/myrobot/build/CMakeFiles/hello.dir
